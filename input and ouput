@@ -1,0 +1,50 @@
+#Hellow World#
+  code:
+	
+print("Hellow World")
+	
+#Hello World with tab#
+	 code:
+
+print("HELLO WORLD \t HELLO WORLD")
+	
+#Hello World with new line#
+	  code:
+		
+print("Hello World\nHello World")
+		
+#Integer Input#
+		 code:
+		 
+a=int(input())
+print(a)
+
+#Float Input#
+ code:
+ 
+a=float(input())
+print(a)
+
+#Character Input#
+ code:
+ 
+a=input()
+print(a)
+
+#String Input#
+ code:
+ 
+a=str(input())
+print(a)
+
+#Ascii-I#
+ code
+ 
+a=input()
+print(ord(a))
+
+#Ascii-II#
+ code:
+ 
+ a=int(input())
+print(chr(a))
